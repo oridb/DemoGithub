@@ -5,6 +5,7 @@ You can make changes to me.
 
 Try it!
 
+<<<<<<< HEAD
 Hue hue hue hue
 
  ((      /|_/|
@@ -18,3 +19,7 @@ Hue hue hue hue
 I tried it.
 
 ...did it work?
+
+NEVAAAAAAA
+Wiggle wiggle wiggle wiglle wiggle
+ahhhhhhhhhhhhhhhhh
