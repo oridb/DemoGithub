@@ -1,0 +1,4 @@
+This is another demo!
+
+Since it doesn't touch the file that you edited, it can be applied
+without conflicts.
